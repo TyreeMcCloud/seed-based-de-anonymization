@@ -20,7 +20,7 @@ def calculate_accuracy(predicted_mapping, actual_mapping):
     return accuracy
 
 # Define the file paths
-solution_file = "Solution2.txt"
+solution_file = "Solution3.txt"
 seed_mapping_test_file = os.path.join("data", "seed_mapping.txt")
 
 # Load the predicted mapping from solution.txt
